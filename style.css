@@ -334,6 +334,16 @@ nav {
     text-align: center;
     margin: 20px 0 0 0;
 }
+.novios2 p {
+    color: var(--color-2);
+    font-family: var(--font-secundaria);
+    letter-spacing: 0.1rem;
+    font-size: 2em;
+    font-weight: lighter;
+    line-height: 1; /* espacio normal */
+    text-align: center;
+    padding: 2px 0 10px 0;
+}
 .playlist {
     width: 84%;
     padding: auto;
